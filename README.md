@@ -1,16 +1,21 @@
-## Hi there 👋
+## 👨‍💻 About Me
 
-<!--
-**Francolin09/Francolin09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello! I'm a passionate software developer dedicated to continuous learning and professional growth. I'm always available to help and collaborate with others.
 
-Here are some ideas to get you started:
+## 💼 Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Languages:** HTML, CSS, JavaScript, TypeScript, Python, SQL
+- **Tools:** AWS Cloud Practitioner, Power BI, and more
+
+## 🌟 Interests
+
+- **Software Development:** Always exploring new technologies and methodologies.
+- **Sports:** Enthusiastic about staying active and healthy.
+- **Astronomy:** Fascinated by the wonders of the universe.
+- **Video Games:** Avid gamer in my free time.
+- **Science & Medicine:** Deeply interested in the latest discoveries and advancements.
+
+
+
+
+
